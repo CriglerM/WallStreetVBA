@@ -2,16 +2,15 @@
 Homework Week 2 - WallStreet VBA
 
 This assignment uses VBA scripting to analyze multiple years of stock data.
-Values are aggregated by stock ticker and then reported per ticker.
-    ..* Yearly Change in stock value from opening at beginning of year to close at end of year
-        Positive changes are highlighted in green and negative changes in red
-    ..* Percent Change in stock value for the year
-    ..* Total volume for the year
+* Values are aggregated by stock ticker and then reported per ticker. 
+    * Yearly Change in stock value from opening at beginning of year to close at end of year. Positive changes are highlighted in green and negative changes in red
+    * Percent Change in stock value for the year
+    * Total volume for the year
 
-The aggregated values are then analyzed to determine the tickers with:
-    ..* Greatest percent increase
-    ..* Greatest percent decrease
-    ..* Greatest total volume
+* The aggregated values are then analyzed to determine the tickers with:
+    * Greatest percent increase
+    * Greatest percent decrease
+    * Greatest total volume
 
 
 # Screenshots of aggregated data 
